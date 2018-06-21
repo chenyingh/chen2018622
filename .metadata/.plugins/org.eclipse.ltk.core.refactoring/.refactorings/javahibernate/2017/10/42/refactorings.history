@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将“student.hbm.xml”移至“src”" description="将“student.hbm.xml”移至“src”" destination="src" element1="src/cjiuhua/student.hbm.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1508516654906" updateReferences="true"/>
+</session>

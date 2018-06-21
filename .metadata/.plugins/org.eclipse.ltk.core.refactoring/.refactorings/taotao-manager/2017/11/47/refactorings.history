@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 2 elements from 项目“taotao-manager”&#x0D;&#x0A;－ 原始项目：“taotao-manager”&#x0D;&#x0A;－ 原始元素：&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本generatorSqlmapCustom&#x0D;&#x0A;JavaRefactoringDescriptorComment_textual_move_only=仅移动文本SpringMVC" description="删除元素" element1="SpringMVC" element2="generatorSqlmapCustom" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="2" stamp="1511537666368" subPackages="false" version="1.0"/>
+</session>

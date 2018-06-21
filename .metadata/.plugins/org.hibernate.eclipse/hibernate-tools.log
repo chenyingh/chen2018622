@@ -1,0 +1,6 @@
+2017-11-04 11:17:52,989 0      [       Worker-4] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//window.ide 'dummy'. Replaced/injected later by STS browser integration.
+2017-11-04 11:17:53,319 330    [       Worker-4] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//The dummy helps preview/test the page in an external browser.
+2017-11-05 17:29:02,524 0      [      Worker-11] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//window.ide 'dummy'. Replaced/injected later by STS browser integration.
+2017-11-05 17:29:02,719 195    [      Worker-11] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//The dummy helps preview/test the page in an external browser.
+2017-11-07 22:47:14,377 1      [      Worker-25] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//window.ide 'dummy'. Replaced/injected later by STS browser integration.
+2017-11-07 22:47:14,721 345    [      Worker-25] WARN  re.templates.TemplateProcessor  - May have failed to replace token 		//The dummy helps preview/test the page in an external browser.
